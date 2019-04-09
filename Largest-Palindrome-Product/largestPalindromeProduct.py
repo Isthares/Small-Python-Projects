@@ -2,8 +2,8 @@
 # Author: Esther Heralta Espinosa
 # Date: 04/05/19
 # Description of the program: A palindromic number reads the same both ways.
-#							  The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 * 99.
-#							  Find the largest palindrome made from the product of two 3-digit numbers.
+#			      The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 * 99.
+#			      Find the largest palindrome made from the product of two 3-digit numbers.
  
 def isPalindrome(number):
 	""" returns true if the given number is palindrome, otherwise false """
