@@ -2,7 +2,7 @@
 # Author: Esther Heralta Espinosa
 # Date: 04/06/19
 # Description of the program: The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-#							  Find the sum of all the primes below 1000.
+#			      Find the sum of all the primes below 1000.
 
 MAX = 1000
 
