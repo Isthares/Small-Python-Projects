@@ -2,7 +2,7 @@
 # Author: Esther Heralta Espinosa
 # Date: 04/05/19
 # Description of the program: 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-#							  What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 15?
+#			      What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 15?
 
 MAX = 15
 
