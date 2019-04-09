@@ -1,8 +1,9 @@
 # File Name: primeNumber.py
 # Author: Esther Heralta Espinosa
 # Date: 04/05/19
-# Description of the program: By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
-#							  What is the 1000 prime number?
+# Description of the program: By listing the first six prime numbers: 
+#			      2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+#			      What is the 1000 prime number?
 
 MAX = 1000
 
