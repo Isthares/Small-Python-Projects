@@ -2,8 +2,8 @@
 # Author: Esther Heralta Espinosa
 # Date: 04/05/19
 # Description of the program: The prime factors of 13195 are 5, 7, 13 and 29.
-#							  The largest prime factor of 13195 is 29.
-#							  What is the largest prime factor of a number entered by the user?
+#			      The largest prime factor of 13195 is 29.
+#	                      What is the largest prime factor of a number entered by the user?
 
 """
 2 x 3 = 6 --> 2 is a factor and 3 is a factor.
