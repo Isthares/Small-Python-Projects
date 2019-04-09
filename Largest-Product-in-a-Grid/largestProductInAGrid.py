@@ -2,8 +2,8 @@
 # Author: Esther Heralta Espinosa
 # Date: 04/06/19
 # Description of the program: We have a 20 x 20 grid of numbers
-#							  What is the greatest product of four adjacent numbers in the same direction 
-#							  (up, down, left, right, or diagonally) in the 20 x 20 grid?
+#			      What is the greatest product of four adjacent numbers in the same direction 
+#			      (up, down, left, right, or diagonally) in the 20 x 20 grid?
 
 MAX_ADJACENT_NUMBERS = 4
 
@@ -53,7 +53,7 @@ def greatestProductFromRightToLeft(grid):
 def createGridFromUpToDown(oldGrid):
 	""" returns a new grid of arrays from up to down 
 		grid = [					newGrid = [
-				[8, 2, 22], 				   [8, 7, 15],
+			[8, 2, 22], 				   [8, 7, 15],
 		        [7, 27, 53],				   [2, 27, 10],
 		        [15, 10, 28] 				   [22, 53, 28]
 		        ]							   ]
@@ -115,12 +115,12 @@ def createGridDiagonal(oldGrid):
 	""" returns a grid of diagonals """
 	""" returns a new grid of arrays from diagonals 
 		grid = [					newGrid = [
-				[8, 2, 22], 				   [8, 27, 28],
-		        [7, 27, 53],				   [2, 53],
-		        [15, 10, 28] 				   [22],
-				]							   [7, 10],
-											   [15]
-											   ]
+			[8, 2, 22], 				   	[8, 27, 28],
+		        [7, 27, 53],				   	[2, 53],
+		        [15, 10, 28] 				   	[22],
+			]				   	   	[7, 10],
+								   	[15]
+								   	]
 	"""
 	#oldGrid = [[8, 2, 22],[7, 27, 53],[15, 10, 28]]
 	newGrid = []
@@ -155,7 +155,7 @@ def greatestProductFromDiagonal(oldGrid):
 def main():
 	#20 x 20 grid of numbers
 	grid = [
-			[8, 2, 22, 97, 38, 15, 0, 40, 0, 75, 4, 5, 7, 78, 52, 12, 50, 77, 91, 8],
+		[8, 2, 22, 97, 38, 15, 0, 40, 0, 75, 4, 5, 7, 78, 52, 12, 50, 77, 91, 8],
     		[49, 49, 99, 40, 17, 81, 18, 57, 60, 87, 17, 40, 98, 43, 69, 48, 4, 56, 62, 0],
     		[81, 49, 31, 73, 55, 79, 14, 29, 93, 71, 40, 67, 53, 88, 30, 3, 49, 13, 36, 65],
     		[52, 70, 95, 23, 4, 60, 11, 42, 69, 24, 68, 56, 1, 32, 56, 71, 37, 2, 36, 91],
