@@ -14,3 +14,6 @@
   - Sumation of Primes
   - Largest Product in a Grid
   - Highly Divisible Triangular Number
+  - Large Sum
+  - Longest Collatz Sequence
+  - Power Digit Sum
