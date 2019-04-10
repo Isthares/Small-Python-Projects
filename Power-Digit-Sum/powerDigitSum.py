@@ -2,7 +2,7 @@
 # Author: Esther Heralta Espinosa
 # Date: 04/08/19
 # Description of the program: 21 ** 5 = 4084101 and the sum of its digits is 4 + 0 + 8 + 4 + 1 + 0 + 1 = 18.
-#			      What is the sum of the digits of the number 21000?
+#			      What is the sum of the digits of the number 21000 ** 5?
 
 def sumDigits(number):
 	""" returns the sum of the digits of the given number """
